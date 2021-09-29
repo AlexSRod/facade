@@ -20,7 +20,7 @@ public class Combo
         }
         public void prc()
         {
-            System.out,println("Preço do prato escolhido");
+            System.out.println("Preço do prato escolhido");
         }
     }
 }
